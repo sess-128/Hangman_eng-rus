@@ -2,7 +2,7 @@ package hangman.common;
 
 import hangman.Hangman;
 
-public class ColorHangmanRender extends HangmanRender {
+public class        ColorHangmanRender extends HangmanRender {
     private final Color color;
 
 
